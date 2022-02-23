@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful visions being something concerning a child that lay fourteen days and nights in a trance, and spoke not a word for nine weeks together, and when she came to her speech, she spake wonderful things : as also, of a man in Germany, under the like circumstance, but exprest more fully, what he had seen of the joys of heaven, and the torments of hell.</title>
+            <author>R. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38960</idno>
+            <idno type="STC">Wing E37</idno>
+            <idno type="STC">ESTC R3768</idno>
+            <idno type="EEBO-CITATION">11791156</idno>
+            <idno type="OCLC">ocm 11791156</idno>
+            <idno type="VID">49203</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38960)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49203)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 491:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful visions being something concerning a child that lay fourteen days and nights in a trance, and spoke not a word for nine weeks together, and when she came to her speech, she spake wonderful things : as also, of a man in Germany, under the like circumstance, but exprest more fully, what he had seen of the joys of heaven, and the torments of hell.</title>
+                  <author>R. E.</author>
+               </titleStmt>
+               <extent>[4], 19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>To the reader signed: R.E.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Visions.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49203:1"/>
+            <pb facs="tcp:49203:1"/>
+            <p>STRANGE AND <hi>Wonderful</hi> VISIONS, Being ſomething concerning a Child that lay fourteen Days and Nights in a Trance, and Spoke not a Word for nine Weeks together; and when ſhe came to her Speech, ſhe ſpake Wonderful Things. As alſo, of a Man in <hi>Germany,</hi> under the like Circumſtance, but Expreſt more fully, what he had ſeen of the Joys of Heaven, and the Torments of Hell.</p>
+            <p>Publiſhed for a General Good.</p>
+            <p>
+               <hi>But if one riſe from the Dead, ſome will not believe.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, and Sold by <hi>Randol Taylor,</hi> near Stationers-Hall, 1693.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:49203:2"/>
+            <pb facs="tcp:49203:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <hi>I</hi> Having been ſo lately with that Chil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that's now living with h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Mother in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> that lay Fourteen Days and Nights i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Trance, and her Teſtimony concerning th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> future ſtate, being the ſame with this following Treatiſe: I had a very great deſire to hav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it publiſht, and that it might be taken into dee<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſideration by all them that are now living<g ref="char:punc">▪</g> for although my Sight be but ſmall, my Faith is great; and though my Ability but ſmall, my Deſire is great, and my Soul is concerne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the whole Creation, but eſpecially for thoſe that are nearly related, and dear to me; and being one that have paſſed through great An<g ref="char:EOLhyphen"/>guiſh and Tribulations in this World, cannot but take notice of the great Love of God manifeſt<g ref="char:EOLhyphen"/>ed to the Creature by Croſſes and Afflictions, and therefore am not ſorry for thoſe that are under Afflictions, but am ſorry for thoſe that want that Faith that evidenceth it ſelf by Love, without which none can ſee God.</p>
+            <p>This Child was Nine Years old, and about an half, when ſhe lay in that Trance: It is now two Months above a Year ſince; and ha<g ref="char:EOLhyphen"/>ving heard both her and her Mother with my
+<pb facs="tcp:49203:3"/>own Ears, am fully ſatisfied as to the truth of what I had heard concerning her: I had heard that ſhe ſhould declare moſt wonderful things, both concerning Heaven, that what ſhe ſaw there was unutterable, but ſhe had declared according to her capacity what ſhe her ſelf did pertake of; and of the unſpeakable Horrour of Hell, and that a Neighbour of theirs that ſhe knew, that dyed ſome time before, ſhe ſhould ſee her there. I asked her, What that Woman was in her Life? The Child anſwered me thus, <hi>No good comes there, and ſhe has wicked Children.</hi> This Child uſeth very few Words; but makes an anſwer when ſhe is ſpoke to; and has an intire love for ſober People. I could ſay much concerning her; but I deſire the Reader to take great notice of the following Treatiſe, in which this Child's Teſtimony is confirmed, and that was written by himſelf, being at man's eſtate, as I muſt conclude, which may give better ſatis<g ref="char:EOLhyphen"/>faction to ſome: but for my own part I am ſatisfied concerning that Teſtimony, though through a Babe, or contemptible Inſtrument.</p>
+            <p>The Child's Name is <hi>Elizabeth Keen,</hi> li<g ref="char:EOLhyphen"/>ving now with her Mother in <hi>Hog-Lane</hi> in
+<hi>London.</hi>
+            </p>
+            <closer>
+               <signed>R. E.</signed>
+               <dateline>
+                  <date>The 28th of <hi>March,</hi> 1693.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:49203:3"/>
+            <head>A ſhort Account of the wonder<g ref="char:EOLhyphen"/>ful Life and Viſions of <hi>Hans Engelbrecht,</hi> Cloath worker and Citizen of <hi>Brunſwick,</hi> ta<g ref="char:EOLhyphen"/>ken out of a larger Treatiſe, writ and publiſht by himſelf in the <hi>German</hi> Tongue.</head>
+            <q>
+               <p>I Have been all my Life long, a man of Sorrow, and of a ſad and afflict<g ref="char:EOLhyphen"/>ed Spirit, from my Youth upward, by reaſon of great Anguiſh and Diſtreſs of Soul, which made me continually to pray and cry to God, <hi>That he would be pleaſed to Comfort me with his Holy Spirit.</hi>
+               </p>
+               <p>I was three Years with a Cloathier, to learn his Craft; but could never make uſe of it to my profit, by reaſon of the great anguiſh of Soul, and deep Sorrow, where<g ref="char:EOLhyphen"/>with I was continually overwhelmed. Now what kind of Anguiſh this was, I am no way able to deſcribe or expreſs to you, neither can any one know it, ex<g ref="char:EOLhyphen"/>cept he hath been tempted and tryed in
+<pb n="2" facs="tcp:49203:4"/>like manner. This made me often at<g ref="char:EOLhyphen"/>tempt to make away with my ſelf, yea, I have often riſen ſuddenly from my la<g ref="char:EOLhyphen"/>bour, and run out of the Houſe without being able to reſt any where, by reaſon of the extream anguiſh and horrour of mind that ſtill followed me: Sometimes I could run down into the Cellar, and hide my ſelf there, not knowing for ex<g ref="char:EOLhyphen"/>tream anguiſh where to beſtow my ſelf. I daily frequented the Churches where any Preaching was, hoping there to meet with ſome Comfort, but all in vain, for my Anguiſh ſtill continued: And as for converſe with men, and merry-meetings, theſe I altogether re<g ref="char:EOLhyphen"/>frained, and had averſion for them, which made me the object of the flouts and deriſion of all my Companions, and fellow Apprentices.</p>
+               <p>In the Year 1634<g ref="char:punc">▪</g> the <hi>Friday</hi> before the ſecond <hi>Sunday</hi> in
+<hi>Advent.</hi> I went to the Church of St. <hi>Kathrines,</hi> in <hi>Brunſwick,</hi> to hear a Sermon, where I was ſurpriſed with unutterable Sorrow and Anguiſh of Mind, by occaſion of ſeeing ſo few Au<g ref="char:EOLhyphen"/>ditors there; and reflecting, how many for f<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r of loſing any opertunity for out<g ref="char:EOLhyphen"/>ward profit, did neglect the Eternal Good of their Souls; this anguiſh ſtill
+<pb n="3" facs="tcp:49203:4"/>increaſed upon me, till my return home, where the extremity of it overcoming my bodily ſtrength and health, I was fain to betake my ſelf to my Bed, my Sto<g ref="char:EOLhyphen"/>mach being altogether taken from me, ſo that I could not get down the leaſt bit of Bread or drop of Drink: The next day finding by the great increaſe of my Weakneſs, that my departure was near I received the Holy Communion at the hand of Mr. <hi>Jorden,</hi> and to the amaze ment of all that were preſent; I receiv<g ref="char:EOLhyphen"/>ed the Bread and Wine without the leaſ reluctancy of my Stomach; whereas ſom<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> time before I had like to have been choak<g ref="char:EOLunhyphen"/>ed, by endeavouring, at the preſſing im<g ref="char:EOLunhyphen"/>portunity of my Maſter, to ſwallow on little bit of boyled Fiſh.</p>
+               <p>Having taken this Heavenly Proviſion I was all on a ſudden ſo overſet with un<g ref="char:EOLunhyphen"/>utterable horrour and anguiſh of So<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which made me cry and roar out moſt h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>deouſly, inſomuch that our affright Neighbours came running in to ſee w<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> was the matter; who finding me in ſu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> an Agony, they all fell down upon th<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Knees, recommending me to God, a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> praying that he would deliver me out my extream Diſtreſs and Horrour, cauſe whereof was Satan abjecting
+<pb n="4" facs="tcp:49203:5"/>Sins to me, tempting me to diſpair, and ſtrangely tormenting me by ſhuteing his fiery Darts into me, wherewith I was as ſenſibly pained as if ſo many Daggers or Knives had been ſtabbed in my Heart.</p>
+               <p>Soon after this, Death began to ſeaſe me, manifeſting it ſelf in the extream coldneſs of my Feet, which increaſed up<g ref="char:EOLhyphen"/>ward, till all feeling was taken from me; neither could I ſo much as open my Mouth, my Fleſh was grown ſo ſtiff and cold: Not long after perfectly per<g ref="char:EOLhyphen"/>ceived my Eye-ſtrings to break; yet my Hearing continued, for I could diſtinct<g ref="char:EOLhyphen"/>ly hear them Pray for me: I alſo heard them ſay one to another, <hi>Eccl his Legs and Feet how cold they be; he will not continue long now:</hi> All which I heard with my Ears; but was not ſenſible when they touched me: I heard the Watch-man cry <hi>paſt Eleven a Clock,</hi> and about
+<hi>Twelve</hi> my Hearing was taken away likewiſe, and then it ſeemed to me as if I had been taken up with my Body, and carried much ſwifter than an Arrow out of a Bow, till I came before the Gates of Hell, where I could perceive nothing but thick Dark<g ref="char:EOLhyphen"/>neſs, Smoke, and a moſt abominable Stink, and loathſom bitter Savour, which I cannot compare with any Stink in this World, it
+<pb n="5" facs="tcp:49203:5"/>was ſo intollerable: Here I heard many gaſhly &amp; terrible Voices, crying,
+<hi>Mountains fall upon us, Hills cover us, that we be not placed before the face of God: Wo! O Wo to us! damned to all Eternity.</hi> And after a while I found my ſelf ſurrounded with many thouſand Devils, who tempted me to diſpair, but I defended my ſelf with the Shield of Faith, truſting in the Mercy of God through Chriſt; in this Prayer of Faith my Spirit cryed earneſt<g ref="char:EOLhyphen"/>ly to God, and preſently thereupon this dark and loathſome Scene diſappeared.</p>
+               <p>Then the Holy Ghoſt appeared to me in the Figure of a man cloathed all in White, and having placed me in a Golden Charriot, he carried me into the clear heavenly Light, whence God is called the Father of Lights, from whom all good and perfect Gifts do proceed, and indeed this was ſuch a Gift, when the Holy Ghoſt carried me in the Golden Charriot Chriſt, out of the helliſh Dark<g ref="char:EOLhyphen"/>neſs, into the ſplendor of the Divine Glory: for Chriſt alone is the Way, the Truth and the life, neither can any one come to the Father of Glory but by him.</p>
+               <p>And when I was thus placed in the Light of the divine Glory, I ſaw the Quires of the holy Angels, Prophets and
+<pb n="6" facs="tcp:49203:6"/>Apoſtles, ſinging and making melody round God's Throne, with Heavenly Voices and divine Muſick; but not in Bodily Shapes: The holy Angels ap<g ref="char:EOLhyphen"/>peared in the likeneſs of innumerable Flames of Fire, and the Saints like bright ſhining Lights; the Throne of God ap<g ref="char:EOLhyphen"/>peared like a Glorious ſhining Bright<g ref="char:EOLhyphen"/>neſs, which no human Reaſon can con<g ref="char:EOLhyphen"/>ceive, neither can I in the leaſt deſcribe what it was: Here I heard the Heaven<g ref="char:EOLhyphen"/>ly Harmony, and ſmelled ſuch ſweet Odours, to which all Earthly delights compared, are trifles and meer ſhadows, all which as was afterwards told me, was therefore manifeſted unto me, that I might comfort the Afflicted and Sor<g ref="char:EOLhyphen"/>rowful of Heart, who are under great croſſes and anguiſh in this World; and was charged to aſſure them that one Ounce of Croſs and Sorrow here, ſhall be rewarded with a thouſand Pound of Heavenly Joy; and all this of meer Grace.</p>
+               <p>During my abode here, the Holy Ghoſt by the miniſtry of an Angel, opened un<g ref="char:EOLhyphen"/>to me the underſtanding or meaning of the whole Pible, and that in a moment. And by the Angelical Revelation, it was ſhewed me, That I was to tell all thoſe
+<pb n="7" facs="tcp:49203:6"/>who deſire to enter into this Kingdom of Glory, that they muſt have a Living Faith in Jeſus Chriſt, and give proof of this Faith by their Love; and repent from their whole Hearts, and be converted: Becauſe the Lord will no longer indure that Hypocriſie and ſhew of Holineſs which is ſo common in the World, be<g ref="char:EOLhyphen"/>cauſe it is determined in the council of the Holy Trinity, that no man ſhall ſee Chriſt face to face, to all Eternity, but he who hath
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eheld here in this time in Faith, and in Spirit in his own Heart.</p>
+               <p>Many have a knowledge of Chriſt, ac<g ref="char:EOLhyphen"/>cording to the Fleſh, and the compre<g ref="char:EOLhyphen"/>henſion of their own carnal Reaſon; but few know Chriſt by Faith, and in Spirit, which their Evil Fruits are an undoubted evidence and to en of; and eſpecially this<g ref="char:punc">▪</g> that there is ſcarcely any true Love left in the World; for all the Friend<g ref="char:EOLhyphen"/>ſhip of the world is meer Diſſembling and Flattery, no man intending the good of his Neighbou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from the bottom of his Heart, by <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which they make it ap<g ref="char:EOLhyphen"/>pear that they have no Faith: for as little as Light can be without ſhining, the Sun without Beams, a good Tree without good fruit, ſo little can Faith be without Love and good Works.</p>
+            </q>
+            <pb n="8" facs="tcp:49203:7"/>
+            <p>So far <hi>Hans</hi> his own Words.</p>
+            <p>The following was writ of him con<g ref="char:EOLhyphen"/>cerning how it was with him after he came into the Body again.</p>
+            <p>The Lord was pleaſed to ratifie and con<g ref="char:EOLhyphen"/>firm the Revelation He had given to him, after his return to Life again, by theſe following Miracles:</p>
+            <p>The <hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rſt</hi> was, That immediately upon his return to Life, he found himſelf in more perfect Health and Vigor then ever he had enjoyed before, and that with<g ref="char:EOLhyphen"/>out the uſe of any Medicine, or any hu<g ref="char:EOLhyphen"/>man help whatſoever. It was obſerved that as his Hearing was the laſt Sence he loſt, ſo it was the firſt Sence he recovered upon his return to the Body; for he heard the Voice of thoſe that were in the Room, before he and the uſe of his other Sences.</p>
+            <p n="2">2. Another Wonder was, that the Light which had been communicated to his Soul, whilſt he was in Heaven, con<g ref="char:EOLhyphen"/>tinued with him after his return to Life, and gave him the knowledge of the My<g ref="char:EOLhyphen"/>ſteries contained in the Scriptures, tho' he had never read them.</p>
+            <p n="3">3. Another mir<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ulous thing obſerved was, that he could and did Diſcourſe whole Lays and Night together; without either
+<pb n="9" facs="tcp:49203:7"/>exhauſting the treaſure of his Mind, or the ſtrength of his Body, in which thing he challenged thoſe Miniſters that ſlandered him to do the like.</p>
+            <p n="4">4. Moreover his Life and Health was preſerved for many Weeks together, without any outward bodily Meat or Drink. He alſo experienced after he be<g ref="char:EOLhyphen"/>gan to eat, that the moſt exquilit Dainties of this world could not overcome the re<g ref="char:EOLhyphen"/>liſh of thoſe inconceiveable Sweets which he had taſted in the other World, and which ever after continued uppermoſt with him.</p>
+            <p n="5">5. Another Wonder was, That he ne<g ref="char:EOLhyphen"/>ver Slept for many Weeks together; and when his Step-mother after much ado had perſwaded him to eat ſomething, in hopes that it might procure Sleep to him; yet for all that his watchfulneſs continued with him nine Months together.</p>
+            <p n="6">6. The laſt Wonder was, that for one and forty Nights after his return to the Body, he continued to hear the Muſick of Angels, as he had heard it in the other World, and himſelf was wont to Sing with them whole Nights together: Du<g ref="char:EOLhyphen"/>ring this time of his hearing the Angelical melody, it happened that a certain Wo<g ref="char:EOLhyphen"/>man having continued with him one
+<pb n="10" facs="tcp:49203:8"/>Night, till all the reſt of the company was gone, and hearing him ſay ever and anon, <hi>Don't you hear how ſweetly the Angels ſing:</hi> She became thereby inflamed with a ſtrong deſire to pertake of that Caeleſti<g ref="char:EOLhyphen"/>al Harmony; whereupon he bid her lay her Ear to his Ear; which ſhe had no ſooner done, but ſhe heard it likewiſe, and in a ſtrange tranſport of Joy broke forth into the high Praiſes of God.</p>
+            <p>Some time after his return to Life, he had the following Viſions of the New Heaven and Earth, which he expreſſeth as followeth.</p>
+            <div type="part">
+               <head>
+                  <hi>Hans Englbrecht's</hi> Viſion of the New Heaven and Earth.</head>
+               <q>
+                  <p>BEing in an Extacy, I ſaw my ſelf placed on a tranſparent Earth, the Heavens that ſurrounded, were as bright as the Sun, and in the ſame I beheld a Sun infinitly brighter and more glorious than that in the outward Firmament: I ſaw alſo the Moon and Stars, but un<g ref="char:EOLhyphen"/>utterably ſurpaſſing thoſe we ſee here, in ſplendor and beauty. The Heaven, Sun, Moon and Stars, reflected their Glory
+<pb n="11" facs="tcp:49203:8"/>upon the Chriſtaline Earth, and were ſeen in it far more clearly then any oppoſit Objects are diſcerned in the beſt Looking-glaſſes. I beheld alſo the Earth adorned with moſt beautiful Flowers of all ſorts, which were ſplendorous and ſhining, and their Colour far more live<g ref="char:EOLhyphen"/>ly then theſe here below.</p>
+                  <p>I ſaw no Man upon this Earth ſave only the Lord Jeſus in his glorified Body, reſembling a tranſcendently beautiful Young Man, his Body was tranſparent, ſo that I could ſee his Heart in the midſt of it; his ſacred Wounds ſhined like ſo many glorious Stars; and his whole Body ſhew'd a luſtre far beyond that of the New Heavens; in his Face I deſcerned my own Face more clearly then ever I had ſeen it in a Looking-glaſs. But what ſhall I ſay more of the Glory and Beauty of his all Glorious Face, the re<g ref="char:EOLhyphen"/>membrance whereof doth to this day fill my Heart with ſuch exalting Joy, as I cannot compare with any of the plea<g ref="char:EOLhyphen"/>ſures or delights of this world. As I was beholding the unutterable Beauty of Chriſt, I ſaid unto him. Deareſt Lord Jeſus, ſhew unto me thy Father: Which I had no ſooner ſaid, but I ſaw a won<g ref="char:EOLhyphen"/>derful Flame, ſtreaming forth from his
+<pb n="12" facs="tcp:49203:9"/>Heart, which immediately filled the New Heavens and Earth, and gave them a thouſand fold greater Glory then they had before. I ſaid unto him alſo, Lord ſhew me the Holy Ghoſt: and as ſoon as I had ſo ſaid, I ſaw many thouſands of Beams darted from all parts of his Body in like manner, as Rays proceed from the Sun: Thus I ſaw the Holy Ghoſt proceeding from the Father and the Son; and I ſaw the Father in Chriſt, and Chriſt in the Father, for the whole Body of Chriſt was filled with the fiery flaming Glory of the Father; and I ſaw the Holy Ghoſt in the likeneſs of infinit Rays, proceeding from the Father through Chriſt, even through all the parts and members of his Body.</p>
+                  <p>Then I deſired to behold the Souls of Saints; whereupon he led further into the Father, and ſhewed me the Souls of Believers in God's Hand, where no pain could touch them; they appeared to me in the likeneſs of many great Sparks of Light, very ſwiftly moving one through another. Then I deſired to ſee my Mo<g ref="char:EOLhyphen"/>ther in her bodily Figure; for ſhe dyed when I was yet a Child; which at the firſt was denyed me; but afterwards upon continuing inſtant in my requeſt,
+<pb n="13" facs="tcp:49203:9"/>I was commanded to return to the World, and to call all the Dead in Chriſt, and to bid them ariſe, for Chriſt com<g ref="char:EOLhyphen"/>manded it. Upon this I ſaw many Graves open, out of which Bodies aroſe, and they came with me into the New world, and ſtood about the Lord Jeſus, I could diſcern them all in his Body, as it were by reflection; and he again did ſhine, and was ſeen in every one of their Bodies in like manner as when a Criſtial Globe being hung up in the midſt of a Room, with many leſſer Globes round about it, all the leſſer are ſeen in the great Globe, and the great Globe appears in every one of the leſſer. I needed not to ask any Que<g ref="char:EOLhyphen"/>ſtions what this or that was, for whatſo<g ref="char:EOLhyphen"/>ever I ſaw, I knew alſo.</p>
+                  <p>I ſaw moreover a great number of Birds with Golden Feathers, flying under the Heavens, and praiſing God. I ſaw alſo the Beaſts of the Field, which were moſt beautiful, the Hair of their Skin ſhining like Gold; with theſe the Saints delighted themſelves, bleſſing and praiſ<g ref="char:EOLhyphen"/>ing God, who had created ſuch a vaſt number of beautiful Creatures for his Praiſe and Glory.</p>
+                  <p>Whilſt I was ſurpriſed with theſe Wonderful Sights, and tranſported with
+<pb n="14" facs="tcp:49203:10"/>Songs and Melody of the Saints and An<g ref="char:EOLhyphen"/>gels, the Lord ſaid unto me, <hi>Now re<g ref="char:EOLhyphen"/>turn again unto the Earth, and declare unto the Children of Men what thou haſt ſeen and heard, and tell them, That if they would come hither to enjoy whatſoever their Hearts can deſire, and have their Bodies made like my Glorious Body, they muſt heartily Repent, and not reſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt the Holy Ghoſt by any known Sin, and thereby hinder him from working Faith in them, which evidenceth it ſelf by Love, without which none can be ſaved, or have their Souls purified, and clarified; for none ſhall have their Bodies glorified in E<g ref="char:EOLhyphen"/>ternity, whoſe Souls have not been purified here in time.</hi> And when I was inſtant with the Lord, that I might remain in Paradiſe; aleadging that if I ſhould re<g ref="char:EOLhyphen"/>turn to the Earth, men would not be<g ref="char:EOLhyphen"/>lieve my Report. The Lord comfort<g ref="char:EOLhyphen"/>ed me, and ſaid, <hi>Do thou bear it patiently, when thou heareſt men Blaſpheam my Works: for the more thou ſhalt ſuffer for my ſake in the World, the more hereafter ſhalt thou re<g ref="char:EOLhyphen"/>joyce with me in Soul and Body: Return thou therefore again into the World, and tell them the things that I command thee: Run apace, gird up thy ſelf, l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t not the long Garments of this World intangle thy Feet; let no man ſtop or ſtay thee: haſte thee away I ſay,
+<pb n="15" facs="tcp:49203:10"/>and I will follow thee at thy Heels, and will come quickly to make an end of this Wicked World, and take my Saints to me in my Kingdom, where they ſhall enjoy Eternal Happineſs; and will ſend the Wicked to the Bottomleſs Pit of Hell.</hi>
+                  </p>
+                  <p>Then I deſired that before my depar<g ref="char:EOLhyphen"/>ture out of Paradiſe, I might fly up in<g ref="char:EOLhyphen"/>to the Air; which was granted me, where I ſaw <hi>David</hi> and <hi>Solomon</hi> delighting themſelves with Birds, that perched on their Fingers, and ſung moſt Melodi<g ref="char:EOLhyphen"/>ouſly: And from thence, at my deſire, I mounted up to the Stars, and from thence was carried up into the infinite ſpace of Eternity, where I beheld the unutterable and inconceiveable Glory of God, which I can no way in the leaſt declare what it was.</p>
+                  <p>Then the Lord Jeſus put a Golden Tankard into my Left hand, and a Gold<g ref="char:EOLhyphen"/>en Cup into my Right hand, and ſaid, <hi>Go now, and return to the World, and fill out to every one a Taſter of this Heavenly Wine of my Kingdom, and to every one that doth reliſh it, and deſire to pertake of this my Banquet, and to have their fill thereof to all Eternity: Do thou declare that I will come quickly, and take them along with me to my Heavenly Banquet:
+<pb n="16" facs="tcp:49203:11"/>And thoſe that indure great Croſſes and Troubles, do thou charge, from me, that they bare it patiently till that bleſſed Hour ſhall come, when I ſhall take them to my ſelf, to live with me in fulneſs of Joy to all E<g ref="char:EOLhyphen"/>ternity; wherefore let them rather in Sub<g ref="char:EOLhyphen"/>miſſion to my Will, chuſe to ſuffer Anguiſh and Affliction, then in their own Wills to be freed therefrom; for in my Will all true Happineſs is to be found, here in this time with Cr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſes and Tribulation, but hereafter in Endleſs Joys for ever.</hi>
+                  </p>
+                  <p>And whereas I had ſeen a Young man, through the Body of Chriſt; and he alſo ſaw me through the ſame Body, ſo that we beheld one another through the Body of Chriſt; the Angel told me, That hence I ſhould take occaſion to tell <hi>Chriſtians,</hi> That they muſt look one up<g ref="char:EOLhyphen"/>on another, in and through Chriſt, with the Eyes of Love and Charity; as alſo that Chriſt muſt dwell in us, and we in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im. And whereas it was a Young man whom I ſaw, the Angel bid me to ſigni<g ref="char:EOLhyphen"/>ſie to Men, from thence, That in this Eternal Life we ſhall continually grow more Young and Beautiful: whereas here we ſtill grow Older and more De<g ref="char:EOLhyphen"/>formed.</p>
+                  <pb n="17" facs="tcp:49203:11"/>
+                  <p>Alſo, whereas I found that I could do whatſoever I deſired, or wiſhed for, the Angel bid me tell Men, That when they come hither, nothing ſhall be impoſſible for them; and whatſoever they deſire, ſhall, as ſoon as deſired, be effected.</p>
+                  <p>Moreover I knew for certain, that there we ſhall find a Glorious New Hea<g ref="char:EOLhyphen"/>ven and Earth, and that Paradiſe ſhall be in the midſt of the Eternal Space, and the New Heavens ſhall ſurround the New Earth, upon which ſhall live all manner of Beaſts, and the Air ſhall be full of Birds; though theſe ſhall never come into Eternity, no more then the Sun, Moon and Stars; becauſe in Eter<g ref="char:EOLhyphen"/>nity nothing of this outward Creation is to be found; but the Beaſts ſhall abide upon the New Earth, and the Birds in the Air, and upon the Trees; where they ſhall ſing moſt Melodiouſly to the Praiſe of God; for upon the New Earth ſhall be all ſorts of moſt pleaſant and beautiful Trees, Plants and Flowers.</p>
+                  <p>And when we are here, we may as oft as we pleaſe, aſcend up into Eternity, and deſcend again to the New Earth, and ſport with Beaſts and Birds, ven, with the Sun, Moon and Stars: Here we ſhall, as oft as we pleaſe, begin a Divine
+<pb n="18" facs="tcp:49203:12"/>Muſical Conſort, and ſhall rejoyce in God after an infinite variety of ways, now al<g ref="char:EOLhyphen"/>together unknown to us: we ſhall be able to paſs through and through the New Earth, with the ſame eaſe as Fiſhes glide through the Water, or Birds through the Air. The Earth it ſelf will be a thouſand times more tranſparent then the moſt clear Looking-glaſs, and conſequently ſhall continually receive, by reflection, the luſter of the New Heavens, with its Sun, Moon, and Stars, which will make the New Earth ſurpaſſing bright and Glori<g ref="char:EOLhyphen"/>ous: We ſhall likewiſe be able to ſee quite through the Earth, though the thickneſs of it be of ſome thouſand of Miles: But Eternity will be our Manſion-houſe, as be<g ref="char:EOLhyphen"/>ing the Palace of the great King; and Paradiſe ſhall be as a Garden of Pleaſure belonging to the ſame Palace, where the Saints, thoſe heavenly Kings ſhall go to recreat themſelves, whoſe Bodies ſhall ſhine brighter then the Sun in the Firma<g ref="char:EOLhyphen"/>mament, for the Glory of God ſhall pierce them through and through. Now how great, think we, will that Glory be, when many hundred thouſands of ſuch Bodies are met together: But beſides, there we ſhall ſee alſo Chriſt our Saviour, whoſe Body ſhall be more bright and Glorious
+<pb n="19" facs="tcp:49203:12"/>than many hundred thouſands of the Bo<g ref="char:EOLhyphen"/>dies of the Saints together; and indeed it will be an inconceiveable Joy to us to behold his more then Aimable and Friend<g ref="char:EOLhyphen"/>ly Aſpect, for we ſhall ſee the Father in him, and him in the Father, and the Holy Spirit going forth from them both. Here we ſhall ſee truly what God is, which in this World cannot be expreſt fully, or underſtood: As for my part, I can never call to remembrance the Revelation of the Father, Son, and Holy Ghoſt, as was ſhewed to me in Paradiſe; but my Heart is filled with ſuch raviſhing Joys, as I can compare to nothing in this World; yea, if it were told me, that I was King over the whole World, it could not give me a Joy comparable to what I feel in my ſelf, upon calling to mind what I there ſaw.</p>
+               </q>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
